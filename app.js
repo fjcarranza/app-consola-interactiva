@@ -15,7 +15,7 @@ const main=async()=>{
     }while(opt !== 0);
 
     
-    //pausa();
+    
     
 }
 

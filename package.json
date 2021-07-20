@@ -1,5 +1,5 @@
 {
-  "name": "App-Consola-Interactiva",
+  "name": "app-consola-interactiva",
   "version": "1.0.0",
   "main": "app.js",
   "scripts": {
@@ -12,5 +12,13 @@
     "colors": "^1.4.0",
     "inquirer": "^8.1.2"
   },
-  "description": ""
+  "description": "��#\u0000 \u0000a\u0000p\u0000p\u0000-\u0000c\u0000o\u0000n\u0000s\u0000o\u0000l\u0000a\u0000-\u0000i\u0000n\u0000t\u0000e\u0000r\u0000a\u0000c\u0000t\u0000i\u0000v\u0000a\u0000\r\u0000 \u0000",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fjcarranza/app-consola-interactiva.git"
+  },
+  "bugs": {
+    "url": "https://github.com/fjcarranza/app-consola-interactiva/issues"
+  },
+  "homepage": "https://github.com/fjcarranza/app-consola-interactiva#readme"
 }
